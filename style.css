@@ -14,3 +14,13 @@
     border-radius: 2px;
     background-color: blue;
 }
+
+.container{
+    width: 800px;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
